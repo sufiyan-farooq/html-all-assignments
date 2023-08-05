@@ -1,0 +1,18 @@
+.box {
+ 
+    word-spacing: 40px;
+}
+.box2{
+    word-spacing: 30px;
+}
+a:hover{
+    font-size: x-large;
+    
+}
+@font-face {
+    font-family: poopins;
+    src: url(font-img/Poppins-Bold.ttf);
+}
+.name h1{
+    font-family: poopins
+}
