@@ -1,0 +1,16 @@
+
+
+
+a:visited{
+    color: black;
+}
+
+.ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+a:hover{
+    color: red;
+    font-size: xxlarge;
+}

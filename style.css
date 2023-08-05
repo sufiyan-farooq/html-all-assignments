@@ -8,6 +8,7 @@
 a:hover{
     font-size: x-large;
     
+    
 }
 @font-face {
     font-family: poopins;
@@ -15,4 +16,7 @@ a:hover{
 }
 .name h1{
     font-family: poopins
-}
+    }
+h1:hover{
+        text-shadow: 2px 2px 2px grey;
+    }
